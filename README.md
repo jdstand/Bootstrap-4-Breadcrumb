@@ -9,7 +9,8 @@ A Bootstrap 4 Breadcrumb for WordPress
 * Testes on WordPress Version 4.9.4
 
 ## Installation
-```php require_once('bootstrap-breadcrumb.php'); 
+```php
+require_once('bootstrap-breadcrumb.php'); 
 ```
 
 ## Call
