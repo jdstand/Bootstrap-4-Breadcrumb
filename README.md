@@ -13,3 +13,9 @@ A Bootstrap 4 Breadcrumb for WordPress
 
 ## Call
 ```html+php <?php bootstrap_breadcrumb(); ?> ```
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
