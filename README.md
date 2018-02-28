@@ -10,7 +10,7 @@ A Bootstrap 4 Breadcrumb for WordPress
 
 ## Installation
 ```php
-require_once('bootstrap-breadcrumb.php'); 
+require_once('class-bootstrap-breadcrumb.php'); 
 ```
 
 ## Call
