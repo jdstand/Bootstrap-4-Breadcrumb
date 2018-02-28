@@ -12,4 +12,4 @@ A Bootstrap 4 Breadcrumb for WordPress
 require_once('bootstrap-breadcrumb.php');
 
 ## Call
-```php <?php bootstrap_breadcrumb(); ?> ```
+```ruby <?php bootstrap_breadcrumb(); ?> ```
